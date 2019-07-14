@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Alc 4 Phase1</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="welcome_to_alc">WELCOME TO ALC 4.0</string>
+    <string name="track">Track</string>
+    <string name="country">Country</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="slack_username">Slack Username</string>
+    <string name="name">Daniel Nwogwugwu</string>
+    <string name="android">Android</string>
+    <string name="nigeria">Nigeria</string>
+    <string name="nwogwugwudaniel_mail">nwogwugwudaniel@gmail.com</string>
+    <string name="phone_number_value">08133630454</string>
+    <string name="username_value">\@daniel nwogwugwu</string>
+    <string name="content_description">Display Picture</string>
+    <string name="ssl_error"> secuirity cert maybe unavailable, do you want to continue?</string>
+</resources>
